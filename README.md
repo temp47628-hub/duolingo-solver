@@ -1,5 +1,9 @@
 # duolingo-solver
 Have you ever had a teacher assign you work for duolingo and you don't feel like doing it, or you're low on hearts and need to finish your lesson? This is perfect for you!
+# System Requirments
+A good enough computer to run a AI Model locally
+At least 10 GB free of storage to install the local AI Model
+Enough ram and VRAM for fast responses.
 # How to use
 1. Download the python file linked.
 2. Download and install Python 3 at https://www.python.org/downloads/
